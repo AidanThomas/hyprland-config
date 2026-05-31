@@ -1,0 +1,11 @@
+{
+  "workspace": {
+    "library": [
+      "/home/aidant/.local/share/hypr/stubs"
+    ],
+    "checkThirdParty": false
+  },
+  "diagnostics": {
+    "globals": [ "hl" ]
+  }
+}
