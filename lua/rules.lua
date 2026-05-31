@@ -1,4 +1,4 @@
-local config = require("modules.config")
+local config = require("config")
 
 hl.window_rule({
     match = { class = config.terminal },

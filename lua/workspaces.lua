@@ -1,4 +1,4 @@
-local config = require("modules.config")
+local config = require("config")
 
 ---@class WorkspaceConfig
 ---@field id integer workspace id, e.g. 1

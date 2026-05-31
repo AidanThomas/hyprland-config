@@ -1,4 +1,4 @@
-local config = require("modules.config")
+local config = require("config")
 local mod = config.mod
 
 local binds = {
