@@ -1,7 +1,7 @@
 local config = require("config")
 
 hl.window_rule({
-    match = { class = config.terminal },
+    match = { class = ".*" .. config.terminal .. ".*" },
     workspace = "name:terminal",
 })
 
