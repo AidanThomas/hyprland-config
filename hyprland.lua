@@ -8,6 +8,7 @@ package.path = table.concat({
     package.path,
 }, ";")
 
+require("animations")
 require("binds")
 require("monitors")
 require("options")
